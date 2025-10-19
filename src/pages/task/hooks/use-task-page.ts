@@ -5,7 +5,6 @@ import type { TaskForm } from '../../../utils/type';
 import { useEffect, useState } from 'react';
 import {
   addTask,
-  BASE_URL,
   deleteTask,
   editTask,
   getTasks,
