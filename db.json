@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "c84d",
+      "title": "Task tracker UI slice",
+      "dueDate": "2025-10-18",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "id": "45da",
+      "title": "Task Tracker filter",
+      "dueDate": "2025-10-17",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "id": "e54f",
+      "title": "Task Tracker create Task",
+      "dueDate": "2025-10-19",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "b26f",
+      "title": "Task Tracker",
+      "dueDate": "2025-10-22",
+      "status": "done",
+      "priority": "high"
+    }
+  ]
+}
