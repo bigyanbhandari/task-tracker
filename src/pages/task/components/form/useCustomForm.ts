@@ -15,7 +15,7 @@ export const useCustomForm = ({ initialValues = {} }: Props) => {
   const reset = () => {
     setFormData(initialValues);
   };
-
+  //previously not chanigg field cause type issue  fix that
   const register = (name: string) => ({
     name,
     value: formData[name] || '',
